@@ -1,0 +1,46 @@
+{
+  "workshoptitle": "Deploy the NVIDIA RAG Blueprint and AI-Q on Oracle Kubernetes Engine (OKE)",
+  "help": "livelabs-help-oci_us@oracle.com",
+  "variables": [
+    "../../variables/variables.json",
+    "../../variables/variables-in-another-file.json"
+  ],
+  "tutorials": [
+    {
+      "title": "Introduction",
+      "description": "The Introduction is always second for LiveLabs. The title and contents menu title match for the Introduction.",
+      "filename": "../../introduction/introduction.md"
+    },
+    {
+      "title": "Get Started with noVNC Remote Desktop",
+      "description": "Using noVNC Remote Desktop",
+      "filename": "https://livelabs.oracle.com/cdn/common/labs/remote-desktop/using-novnc-remote-desktop.md"
+    },
+    {
+      "title": "Lab 1: Deploy the NVIDIA RAG Blueprint",
+      "description": "Labs that follow the introduction are numbered, starting with Lab 1.",
+      "filename": "../../lab1-nvidia-rag-blueprint/lab1-nvidia-rag-blueprint.md"
+    },
+    {
+      "title": "Lab 2: Deploy the NVIDIA AI-Q Research Assistant",
+      "filename": "../../lab2-deploy-ai-q/lab2-deploy-ai-q.md"
+    },
+    {
+      "title": "Lab 3: Monitor the AI-Q Deployment",
+      "filename": "../../lab3-test-ai-research-workflows/lab3-test-ai-research-workflows.md"
+    },
+    {
+      "title": "Lab 4: Load Data and Test AI-Q Research Workflows",
+      "filename": "../../lab4-managing-and-scaling/lab4-managing-and-scaling.md"
+    },
+    {
+      "title": "Lab 5: Check Your Understanding",
+      "filename": "../../lab5-knowledge-check/lab5-knowledge-check.md"
+    },
+    {
+      "title": "Need Help?",
+      "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+      "filename": "https://livelabs.oracle.com/cdn/common/labs/need-help/need-help-livelabs.md"
+    }
+  ]
+}
