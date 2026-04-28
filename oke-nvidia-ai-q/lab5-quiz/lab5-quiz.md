@@ -1,8 +1,8 @@
-# Check Your Understanding of NVIDIA AI-Q on Oracle Kubernetes Engine (OKE)
+# Optional Quiz: NVIDIA AI-Q on Oracle Kubernetes Engine (OKE)
 
 ## Introduction
 
-In this lab, you review the main ideas from the workshop and confirm your understanding of how the NVIDIA RAG Blueprint and NVIDIA AI-Q work together on Oracle Kubernetes Engine (OKE).
+This optional lab lets you review the main ideas from the workshop and confirm your understanding of how the NVIDIA RAG Blueprint and NVIDIA AI-Q work together on Oracle Kubernetes Engine (OKE).
 
 Estimated Time: 10 minutes
 
@@ -14,18 +14,13 @@ In this lab, you will:
 - Test your understanding of the deployment flow
 - Confirm how the RAG and AI-Q services interact
 
-```quiz-config
-passing: 75
-badge: images/badge.png
-```
-
 ## Task 1: Complete the Quiz
 
 1. Answer the questions below based on what you learned in the Introduction and Labs 1 through 4.
 
-2. Score 75% or higher to complete the quiz and unlock the badge for this lab.
+2. This quiz is optional. Use it as a quick self-check before you finish the workshop.
 
-    ```quiz score
+    ```quiz
     Q: What is the main purpose of the NVIDIA RAG Blueprint in this workshop?
     - It replaces Kubernetes with a simpler deployment model.
     * It provides document ingestion, retrieval, reranking, and grounded question answering.
@@ -69,11 +64,16 @@ badge: images/badge.png
     > The workshop highlights the human-in-the-loop flow. You can review and refine individual sections instead of treating the output as fixed.
     ```
 
-3. Review any missed answers and revisit the related lab if you want a quick refresher.
+3. When you finish the questions, congratulations on completing the quiz. Revisit any related lab if you want a quick refresher.
+
+## Conclusion
+
+Congratulations on finishing the workshop and the optional quiz. You now have a practical understanding of how to deploy, monitor, and test NVIDIA AI-Q with the NVIDIA RAG Blueprint on Oracle Kubernetes Engine.
 
 ## Learn More
 
 - [NVIDIA AI-Q Blueprint](https://build.nvidia.com/nvidia/aiq)
+- [Oracle Kubernetes Engine product page](https://www.oracle.com/cloud/cloud-native/kubernetes-engine/)
 - [Oracle Kubernetes Engine documentation](https://docs.oracle.com/en-us/iaas/Content/ContEng/home.htm)
 
 ## Acknowledgements
